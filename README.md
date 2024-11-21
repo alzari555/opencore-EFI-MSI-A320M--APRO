@@ -28,3 +28,5 @@ Physical CPU cores	Hex value
 16 Cores	          10
 24 Cores          	18
 32 Cores          	20
+
+tested in mac os Big Sur - Ventura
