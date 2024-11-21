@@ -1,9 +1,10 @@
+
 **BIOS Settings**
 SATA Mode -	AHCI
 EHCI/XHCI Hand-off - Enabled
 SVM -	Enabled
-CSM -	Disabled
-Secure Boot -	Disabled 
+CSM -	**Disabled**
+Secure Boot -	**Disabled** 
 Serial Port -	Disabled
 Parallel Port -	Disabled
 
@@ -20,7 +21,7 @@ BA 00 0000 0000 -> BA 08 0000 0000
 BA 00 0000 0090 -> BA 08 0000 0090
 BA 00 0000 00 -> BA 08 0000 00
 
-Physical CPU cores	Hex value
+**Physical CPU cores	Hex value**
 4 Cores           	04
 6 Cores	            06
 8 Cores           	08
